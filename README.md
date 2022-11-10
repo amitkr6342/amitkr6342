@@ -1,5 +1,5 @@
+<img src="https://user-images.githubusercontent.com/107832638/201116891-7c48b57e-0218-41d6-a67d-7f0f45cfbd54.jpg" alt="my banner" width="700" align="center">
 
-<h1 align="left">Hi 👋, I'm Amit Kumar</h1>
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
