@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@amitkr6342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@amitkr6342" height="30" width="40" /></a>
+<a href="https://twitter.com/@amitkr6342" target="blank"><img align="center" src="https://global-uploads.webflow.com/5e157548d6f7910beea4e2d6/6304a2578abd315b18c8f6e9_twitter-logo.png" alt="@amitkr6342" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amitkr6342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amitkr6342" height="30" width="40" /></a>
 </p>
 
