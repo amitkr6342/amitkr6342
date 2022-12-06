@@ -2,15 +2,15 @@
 
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-```
-- 🔭 I’m currently working on **Machine Learning Projects**
 
-- 🌱 I’m currently learning **Data Science**
+- :boom: I’m currently working on **Machine Learning Projects**
+
+- :sunny: I’m currently learning **Data Science**
 
 - 💬 Ask me about **Python, Statistics, SQL and Machine Learning**
 
-- 📫 How to reach me **amit.kr.phe16@itbhu.ac.in**
-```
+- 📧 How to reach me **amit.kr.phe16@itbhu.ac.in**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@amitkr6342" target="blank"><img align="center" src="https://images.unsplash.com/photo-1611605698335-8b1569810432?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" alt="@amitkr6342" height="50" width="60" /></a>
